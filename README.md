@@ -5,7 +5,7 @@ A cross-platform application designed to solve and visualize the **Richest Custo
 <img width="25%" alt="Screenshot_20260303-185729" src="https://github.com/user-attachments/assets/9f847244-f8ed-432f-8292-c45b735ad5cc" />
 <img width="25%" alt="Screenshot_20260303-185701" src="https://github.com/user-attachments/assets/0e68f4a7-8eca-4231-be0e-b35b383b8f7f" />
 </p>
-**Try it out here:** [Live Demo](https://itjosue.github.io/Richest_Customer_Wealth/))
+**Try it out here:** [Live Demo](https://aijosue.github.io/Richest_Customer_Wealth/))
 
 ---
 
